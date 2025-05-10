@@ -16,7 +16,7 @@ I am an enthusiastic programmer who is ready to learn day after day.
 
   [![My Github Stats](https://github-readme-stats.vercel.app/api?username=WhatClick&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/WhatClick)
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=samujjwaal&color=blue)
+  ![Profile Views](https://komarev.com/ghpvc/?username=WhatClick&color=blue)
   ----
   
 </details>
@@ -48,7 +48,7 @@ I am an enthusiastic programmer who is ready to learn day after day.
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/php.png">
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=samujjwaal&repo=UIC-search-engine&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=WhatClick&repo=UIC-search-engine&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mexipajas&hide=stars,commits,prs,issues,contribs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
@@ -59,4 +59,3 @@ I am an enthusiastic programmer who is ready to learn day after day.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WhatClick)
 -->
-
