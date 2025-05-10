@@ -1,6 +1,6 @@
 ## Hi there, [WhatClick] here 👋🏼👨🏻‍💻
 
-[![Gmail Badge](https://img.shields.io/badge/-indexdev@contact.me-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com "Connect via Email")
+[![Gmail Badge](https://img.shields.io/badge/-whatclick@contact.me-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:WhatClick.dey@acuitybrands.com "Connect via Email")
 
 <a href=""><img src="https://github.com/WhatClick/WhatClick/etc/perfil.png" align="right" height="275" /></a>
 
