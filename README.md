@@ -44,7 +44,7 @@ I am an enthusiastic programmer who is ready to learn day after day.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=WhatClick.WhatClick)
 [![HitCount](http://hits.dwyl.com/WhatClick/WhatClick.svg)](http://hits.dwyl.com/WhatClick/WhatClick)
-![Repo Views](https://views.whatilearened.today/views/github/Mexipajas/Mexipajas.svg?cache=remove)
+![Repo Views](https://views.whatilearened.today/views/github/WhatClick/WhatClick.svg?cache=remove)
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/php.png">
 
