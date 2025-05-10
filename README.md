@@ -51,7 +51,7 @@ I am an enthusiastic programmer who is ready to learn day after day.
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=WhatClick&repo=UIC-search-engine&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mexipajas&hide=stars,commits,prs,issues,contribs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=WhatClick&hide=stars,commits,prs,issues,contribs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhatClick" width="350"/>
